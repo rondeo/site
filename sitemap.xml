@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://sab.fm/tag/jekyll/</loc>
+<lastmod>2019-06-22T14:05:16+03:00</lastmod>
+</url>
+<url>
+<loc>https://sab.fm/tag/github/</loc>
+<lastmod>2019-06-22T14:05:16+03:00</lastmod>
+</url>
+<url>
+<loc>https://sab.fm/posts/%D0%BF%D0%BE%D1%81%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D0%B1%D1%8F</loc>
+<lastmod>2019-06-15T00:00:00+03:00</lastmod>
+</url>
+<url>
+<loc>https://sab.fm/about</loc>
+</url>
+<url>
+<loc>https://sab.fm/</loc>
+</url>
+</urlset>
